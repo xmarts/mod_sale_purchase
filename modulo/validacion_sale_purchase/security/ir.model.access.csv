@@ -1,5 +1,2 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_modulo_odoo11_modulo_odoo11,modulo_odoo11.modulo_odoo11,model_modulo_odoo11_modulo_odoo11,,1,0,0,0
-
-
-
+access_validacion_validacion,validacion.validacion,model_validacion_validacion,,1,0,0,0
