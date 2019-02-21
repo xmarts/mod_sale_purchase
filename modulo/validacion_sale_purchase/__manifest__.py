@@ -6,8 +6,9 @@
         Short (1 phrase/line) summary of the module's purpose, used as
         subtitle on modules listing or apps.openerp.com""",
 
-    'description': """
-        Long description of module's purpose
+    'description': """   
+        Block the option to add another product to the line once the sale or 
+        purchase has been validated or when the status is: cancel, done, sale y purchase
     """,
 
     'author': "xmarts",
